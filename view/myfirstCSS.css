@@ -1,0 +1,62 @@
+ body{
+            background:  seagreen;
+             color:  wheat;
+             font:  14px Arial;
+        }
+h1{
+      color:  white;
+      font:  24px Impact;
+    }
+h2{
+    text-align:  center;
+    font:  36px Helvetica;
+    color:
+}
+h3
+    {
+       font:  36px Garamond;
+       color:  black;
+    }
+h4{
+    color:  blueviolet;
+    font:  24px Copperplate;
+}
+
+a:link{
+    color:  blue;
+    text-decoration:  underline;
+}
+a:visited{
+    color:  red;
+    text-decoration:  none;
+}
+a:hover{
+    color:  palevioletred;
+    text-decoration:  none;
+}
+a:active{
+    color:  blue;
+    text-decoration:  italic;
+}
+.nature{
+    font:  20px Futura;
+    text-decoration:  wavy overline rosybrown;
+    color:  saddlebrown;
+    text-align:  right;
+}
+#highlight-orange{
+    background-color:  darkorange;
+    text-align:  center;
+}
+.doMathButton{
+    background-color: red;
+    border:  3px solid purple;
+    color:  white;
+    padding:  15px 32px;
+    margin: 4px 2px;
+    text-align:  center;
+    text-decoration:  underline;
+    font-size:  14px;
+    cursor:  pointer;
+    ;
+}
